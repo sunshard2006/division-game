@@ -1,0 +1,12 @@
+--------------------------------
+         Division Game          
+--------------------------------
+Welcome to Divison Game!        
+Choose a game mode to start playing
+
+(H) Help          (R) Reset save
+(1) Classic       (2) Limited   
+(3) Blind         (4) Highest   
+(5) Highest+      (E) Exit      
+
+--------------------------------
